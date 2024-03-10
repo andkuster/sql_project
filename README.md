@@ -1,9 +1,23 @@
+## PostgreSQL Database Creation and Python Analysis
+
 ### Aluno:
 André R. Kuster | nº: 1116029
 
 ### Objetivo:
 
 O objetivo deste projeto é aplicar os conhecimentos adquiridos ao longo da disciplina de **Banco de Dados 1** em um contexto prático, utilizando um conjunto de dados, a ﬁm de extrair insights e responder perguntas de negócio aplicando o SQL como ferramenta de construção, consulta e análise de dados.
+
+<div align="center">
+    <img alt="support" src="https://github.com/andkuster/sql_project/blob/main/images/claude-piche-Dbh2Fu07204-unsplash.jpg" width="150%" height="100%">
+</div>
+
+<div style="text-align:right;">
+  <sub>Pic Credit: 
+    <a href="https://unsplash.com/pt-br/@peecho?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Claude Piché</a> na <a href="https://unsplash.com/pt-br/fotografias/bicicleta-cruzer-no-litoral-Dbh2Fu07204?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  </sub>
+</div>
+
+
 
 ### Base de Dados:
 Será utilizado conjunto de dados público de vendas de bicicletas, contendo informações sobre pedidos feitos em uma rede de lojas. O conjunto de dados inclui pedidos, produtos, vendedores, lojas e também a base de clientes. Este projeto visa identificar as características da base, tipagem dos dados corretamente, e entender quais são as informações disponíveis. Um **esquema** do relacionamento das tabelas será apresentado abaixo, com o intuito de facilitar o entendimento do relacionamento entre as bases de dados.
