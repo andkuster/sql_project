@@ -1,4 +1,4 @@
-## PostgreSQL Database Creation and Python Analysis
+## PostgreSQL Database Creation and Python Analysis (SQL)
 
 ### Aluno:
 André R. Kuster | nº: 1116029
