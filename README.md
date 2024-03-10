@@ -8,7 +8,7 @@ André R. Kuster | nº: 1116029
 O objetivo deste projeto é aplicar os conhecimentos adquiridos ao longo da disciplina de **Banco de Dados 1** em um contexto prático, utilizando um conjunto de dados, a ﬁm de extrair insights e responder perguntas de negócio aplicando o SQL como ferramenta de construção, consulta e análise de dados.
 
 <div align="center">
-    <img alt="support" src="https://github.com/andkuster/sql_project/blob/main/images/claude-piche-Dbh2Fu07204-unsplash.jpg" width="150%" height="100%">
+    <img alt="support" src="https://github.com/andkuster/sql_project/blob/main/images/claude-piche-cut-unsplash.jpg" width="100%" height="100%">
 </div>
 
 <div style="text-align:right;">
